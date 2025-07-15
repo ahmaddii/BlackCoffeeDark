@@ -7,16 +7,14 @@
 ## 📷 Screenshots
 
 ### ✨ Syntax Highlighting (C++)
-![Black Coffee Dark](screenshot1.png)
+![Black Coffee Dark](https://github.com/ahmaddii/BlackCoffeeDark/raw/main/screenshot2.png)
 
-### 💻 Sidebar + Terminal UI
-![UI Layout](screenshot2.png)
+### 💻 Terminal UI
+![UI Layout](https://github.com/ahmaddii/BlackCoffeeDark/raw/main/screenshot3.png)
 
-### 🌐 Terminal Example
-![Terminal Preview](screenshot3.png)
 
 ### ⚙️ SideBar
-![Side Bar Preview](screenshot4.png)
+![Side Bar Preview](https://github.com/ahmaddii/BlackCoffeeDark/raw/main/screenshot4.png)
 
 ---
 
@@ -59,6 +57,7 @@ Looks stunning in:
 3. Press `F5` to launch the **Extension Development Host**  
 4. In the new window:  
    `Ctrl + Shift + P` → `Color Theme` → Choose **BlackCoffeeDark**
+5. Search in Extentions BlackCoffee Dark
 
 ---
 
@@ -75,7 +74,7 @@ Developer • Full Stack Developer • Code Themer
 
 - GitHub: [https://github.com/ahmaddii]
 - Linkden: [https://www.linkedin.com/in/malik-ahmad-rasheed-3768902a9/]
-- Feedback: [malikahmad6666666@gmail.com or feedback form]
+- Feedback: [malikahmad6666666@gmail.com]
 
 ---
 
